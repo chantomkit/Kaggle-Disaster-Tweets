@@ -1,4 +1,4 @@
-# Kaggle_TweeterNLP
+# Kaggle_TwitterNLP
 
 Different data cleaning techiques
 - Remove # and @user
