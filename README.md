@@ -3,7 +3,7 @@
 
 Competition link: https://www.kaggle.com/competitions/nlp-getting-started
 
-Different text processing techiques
+Different text processing techiques (For linear models and tree models only)
 - Remove digits and special characters
 - Contractions fix
 - Stemming / lemmatizing
