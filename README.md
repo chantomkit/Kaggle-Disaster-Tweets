@@ -20,4 +20,4 @@ Feature extraction:
 Models:
 - Ridge classifier
 - XGBoost
-- BERt
+- BERT
